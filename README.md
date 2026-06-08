@@ -57,6 +57,7 @@ Solo travel offers freedom, self-discovery, and the chance to explore the world 
 - [Omio](https://www.omio.com/) – Rail and bus tickets across Europe.
 - [PackPoint](https://www.packpnt.com/) – Smart packing list generator.
 - [Solo Traveler Tools – Packing List & Time Zone Converter](https://tools.solotraveler.org/) – Tailored tools for solo travelers.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) – MCP server for AI agent identity verification on Solana. Useful for AI travel planning agents that pay for data services (flights, hotels, maps) via x402 micropayments.
 
 ## Language & Communication
 
