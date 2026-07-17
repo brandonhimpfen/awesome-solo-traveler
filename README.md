@@ -56,6 +56,7 @@ Solo travel offers freedom, self-discovery, and the chance to explore the world 
 - [Skyscanner](https://www.skyscanner.com/) – Cheap flight search, great for flexible solo travel.
 - [Omio](https://www.omio.com/) – Rail and bus tickets across Europe.
 - [PackPoint](https://www.packpnt.com/) – Smart packing list generator.
+- [OneBag](https://coinsayfasi.github.io/onebag/) – Carry-on packing lists per destination with bag-weight tracking for 80+ airlines.
 - [Solo Traveler Tools – Packing List & Time Zone Converter](https://tools.solotraveler.org/) – Tailored tools for solo travelers.
 
 ## Language & Communication
