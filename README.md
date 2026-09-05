@@ -102,10 +102,10 @@ Solo travel offers freedom, self-discovery, and the chance to explore the world 
 
 ## Related Awesome Lists
 
-- [Awesome Travel](https://github.com/awesomelistsio/awesome-travel)
-- [Awesome Digital Nomads](https://github.com/awesomelistsio/awesome-digital-nomads)
-- [Awesome Travel Hacking](https://github.com/awesomelistsio/awesome-travel-hacking)
-- [Awesome Language Learning](https://github.com/awesomelistsio/awesome-language-learning)
+- [Awesome Travel](https://github.com/brandonhimpfen/awesome-travel)
+- [Awesome Digital Nomads](https://github.com/brandonhimpfen/awesome-digital-nomads)
+- [Awesome Travel Hacking](https://github.com/brandonhimpfen/awesome-travel-hacking)
+- [Awesome Language Learning](https://github.com/brandonhimpfen/awesome-language-learning)
   
 ## Contribute
 
