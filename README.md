@@ -30,6 +30,7 @@ Solo travel offers freedom, self-discovery, and the chance to explore the world 
 
 ## Solo Travel Guides & Blogs
 
+- [China Travel Check](https://gochina.taoliapp.com/) – Verified English field manual for independent travel in mainland China (payments, eSIM, visas, trains).
 - [SoloTraveler.org](https://www.solotraveler.org/) – Trusted tips, destinations, and solo travel guides.
 - [Adventurous Kate](https://www.adventurouskate.com/) – Solo female travel blog with honest tips and stories.
 - [The Blonde Abroad](https://www.theblondeabroad.com/) – Solo female travel guides and photography.
