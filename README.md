@@ -63,6 +63,7 @@ Solo travel offers freedom, self-discovery, and the chance to explore the world 
 - [Omio](https://www.omio.com/) – Rail and bus tickets across Europe.
 - [PackPoint](https://www.packpnt.com/) – Smart packing list generator.
 - [Solo Traveler Tools – Packing List & Time Zone Converter](https://tools.solotraveler.org/) – Tailored tools for solo travelers.
+- [China Tours Local](https://chinatourslocal.com/entry) – Free entry checker for China that works through the four visa-free routes rule by rule, with official sources.
 
 ## Language & Communication
 
